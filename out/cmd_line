@@ -1,0 +1,1 @@
+genhtml --ignore-errors inconsistent coverage.info --output-directory ./out
